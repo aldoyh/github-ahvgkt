@@ -7,7 +7,7 @@ export default defineConfig({
     starlight({
       title: 'My Docs',
       social: {
-        github: 'https://github.com/aldoyh/starlight',
+        github: 'https://github.com/aldoyh/github-ahvgkt',
       },
       sidebar: [
         {
